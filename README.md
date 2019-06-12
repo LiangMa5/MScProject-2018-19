@@ -1,4 +1,3 @@
-![](https://github.com/LiangMa5/Pic/blob/master/logo.jpg)
 # Department of Electrical and Electronic Engineering, Imperial College London
 This repo contains code and final report for MSc Communications and Signal Processing individual research project:<br/>
 * Title: Rate-Splitting Multiple Access for NextGeneration Wireless Networks.
