@@ -1,3 +1,2 @@
-# Imperial College-
-# EEE-MSc-Project-2018-19
-MSc individual research project
+# Imperial College London, Department of Electrical and Electronic Engineering
+# Communications and signal processing Postgraduate taught (MSc) courses, individual research project
