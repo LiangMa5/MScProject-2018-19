@@ -1,3 +1,2 @@
-# MSc Communications and Signal Processing - individual research project
-Imperial College London, Department of Electrical and Electronic Engineering
+# MSc Communications and Signal Processing, Department of Electrical and Electronic Engineering, Imperial College London, 
 
